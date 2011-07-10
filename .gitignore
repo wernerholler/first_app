@@ -1,0 +1,9 @@
+db/*.mysql
+log/*.log
+*.log
+/tmp/
+doc/
+*.swp
+*~
+.project
+.DS_Store
